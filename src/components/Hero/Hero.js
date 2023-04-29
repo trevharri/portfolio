@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         I'm a frontend developer with a passion for turning designs into live responsive websites.
       </SectionText>
-      <Button onClick={() => window.location = '/#footer'}>Learn More</Button>
+      <Button onClick={() => window.location = '/portfolio#footer'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
