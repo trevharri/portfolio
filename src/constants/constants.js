@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'MERN Memories',
     description: "Using React I built out a beautiful and responsive GPT-3 themed front-end. In creating this site I practiced and learned concepts such as BEM naming convention and responsive design tools like flexbox and media queries.",
-      image: '/images/project1.png',
+      image: 'https://imgur.com/a/kweWJ2P',
       tags: ['React', 'JavaScript', 'HTML', 'CSS'],
     source: 'https://google.com',
     visit: 'https://google.com',
