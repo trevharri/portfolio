@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
+    title: 'GPT-3',
     description: "Using React I built out a beautiful and responsive GPT-3 themed front-end. In creating this site I practiced and learned concepts such as BEM naming convention and responsive design tools like flexbox and media queries.",
       image: 'https://i.imgur.com/G8fwuzq.png',
       tags: ['React', 'JavaScript', 'HTML', 'CSS'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/trevharri/project1',
+    visit: 'https://gpt3-zeta-green.vercel.app/',
     id: 0,
   },
   // {
