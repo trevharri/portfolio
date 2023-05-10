@@ -1,8 +1,8 @@
 export const projects = [
   {
     title: 'GPT-3',
-    description: "Using React I built out a beautiful and responsive GPT-3 themed front-end. In creating this site I practiced and learned concepts such as BEM naming convention and responsive design tools like flexbox and media queries.",
-      image: 'https://i.imgur.com/G8fwuzq.png',
+    description: "Using React and images generated on Midjourney I built out a beautiful and responsive Crypto themed front-end. In creating this site I practiced and learned concepts such as BEM naming convention and responsive design tools like flexbox and media queries.",
+      image: 'https://i.imgur.com/Jq2Ldqw.png',
       tags: ['React', 'JavaScript', 'HTML', 'CSS'],
     source: 'https://github.com/trevharri/project1',
     visit: 'https://gpt3-zeta-green.vercel.app/',
