@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'CryptoStop',
-    description: "Using React and images generated on Midjourney I built out a beautiful and responsive Crypto themed front-end. In creating this site I practiced and learned concepts such as BEM naming convention and responsive design tools like flexbox and media queries.",
+    description: "I built out a beautiful and responsive Crypto themed landing page using react. In creating this site I practiced and learned concepts such as responsive design (flexbox/gird and media queries), conditional rendering and BEM naming convention. The images and art were generated on Midjourney.",
       image: 'https://i.imgur.com/Jq2Ldqw.png',
       tags: ['React', 'JavaScript', 'HTML', 'CSS'],
     source: 'https://github.com/trevharri/project1',
