@@ -2,7 +2,7 @@ import React from 'react';
 import { DiFirebase, DiReact, DiZend, DiCss3, DiHtml5, DiJavascript1, DiNodejsSmall, DiMsqlServer } from 'react-icons/di';
 import {FiFigma} from 'react-icons/fi'
 import {FaGitAlt} from 'react-icons/fa'
-import {SiExpress} from 'react-icons/si'
+import {SiExpress, SiTailwindcss} from 'react-icons/si'
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -21,12 +21,13 @@ const Technologies = () =>  (
           <DiHtml5 size="3rem" />
           <DiCss3 size="3rem" />
           <DiReact size="3rem" />
+          <SiTailwindcss size="3rem" />
           </span>
           <ListContainer>
             <ListTitle>Front-End</ListTitle>
             <ListParagraph>
               Experience with <br/>
-              JavaScript / HTML / CSS / React.js
+              JavaScript / HTML / CSS / React.js/ Tailwind CSS
             </ListParagraph>
           </ListContainer>
         </ListItem>
