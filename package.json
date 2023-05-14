@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build"
+    "build": "next build && next export",
+    "start": "next start"
   },
   "dependencies": {
     "next": "10.2.3",
