@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Movie Fight',
-    description:"A single page application with two drop-downs that fetches info about movies from an imdb API and then compares the two and color codes the victor/loser. This project was built in vanilla JavaScript with Bulma CSS. In this project I reinforced my ability to fetch and parse data from APIs, handle errors, debouncing and manipulate the DOM in JavaScript.",
+    description:"A single page application with two drop-downs that fetches info about movies from an imdb API and then compares the two and color codes the victor/loser. This project was built in vanilla JavaScript with Bulma CSS. In this project I reinforced my ability to fetch and parse data from APIs, handle errors, debounce function calls and manipulate the DOM in JavaScript.",
     image: 'https://i.imgur.com/mD6fv7L.png',
     tags: ['JavaScript', 'HTML', 'CSS'],
     source: 'https://github.com/trevharri/movie-fight',
