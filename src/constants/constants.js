@@ -1,7 +1,16 @@
 export const projects = [
+    {
+    title: 'Spotiflyy',
+    description: "A work in progress. A Spotify clone built using React, Redux and Tailwind CSS. In working on this project I am learning more about interacting with APIs in react and complex state management using Redux.",
+      image: 'https://i.imgur.com/40IHLNY.png',
+      tags: ['React', 'Redux', 'JavaScript', 'Tailwind CSS', 'HTML', 'CSS'],
+    source: 'https://github.com/trevharri/Spotiflyy',
+    visit: 'https://spotiflyy.vercel.app/',
+    id: 3,
+  },
   {
     title: 'CryptoStop',
-    description: "I built out a beautiful and responsive Crypto themed landing page using react. In creating this site I practiced and learned concepts such as responsive design (flexbox/gird and media queries), conditional rendering and BEM naming convention. The images and art were generated on Midjourney.",
+    description: "I built out a responsive Crypto themed landing page using react. In creating this site I practiced and learned concepts such as responsive design (flexbox/gird and media queries), conditional rendering and BEM naming convention. The images and art were generated on Midjourney.",
       image: 'https://i.imgur.com/Jq2Ldqw.png',
       tags: ['React', 'JavaScript', 'HTML', 'CSS'],
     source: 'https://github.com/trevharri/project1',
@@ -26,15 +35,6 @@ export const projects = [
     visit: 'https://movie-fight-smoky.vercel.app/',
     id: 2,
   },
-  // {
-  //   title: 'WebRTC App',
-  //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-  //     image: '/images/3.jpg',
-  //     tags: ['React', 'WebRTC'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  // },
   // {
   //   title: 'Unichat',
   //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
