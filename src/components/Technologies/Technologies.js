@@ -34,7 +34,7 @@ const Technologies = () =>  (
         </ListItem>
         <ListItem>
           <span>
-            {/* <SiPython size="3rem" /> */}
+            <SiPython size="3rem" />
             <DiNodejsSmall size="3rem" />
             <DiMsqlServer size="3rem" />
           </span>
@@ -50,6 +50,7 @@ const Technologies = () =>  (
           <span>
             {/* <SiSelenium size="3rem" /> */}
             {/* <SiPytest size="3rem" /> */}
+            <img src='https://i.imgur.com/mYwC3Ys.png/' style={{height:"3rem"}} />
             <SiPostman size="3rem" />
             <FaGitAlt size="3rem" />
           </span>
