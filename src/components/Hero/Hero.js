@@ -12,7 +12,7 @@ const Hero = (props) => (
         A developer
       </SectionTitle>
       <SectionText>
-        I'm a developer with a passion for all things related to software and automation.
+        I'm a self-taught developer with a year of experience in QA. I have a passion learning and all things related to software and automation.
       </SectionText>
       <Button onClick={() => window.location = '/#footer'}>Learn More</Button>
     </LeftSection>
