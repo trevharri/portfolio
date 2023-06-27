@@ -9,10 +9,10 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         I'm Trevor <br />
-        A web developer
+        A developer
       </SectionTitle>
       <SectionText>
-        I'm a developer with a passion for creating beautiful, interactive and responsive websites and web applications.
+        I'm a developer with a passion for all things related to software and automation.
       </SectionText>
       <Button onClick={() => window.location = '/#footer'}>Learn More</Button>
     </LeftSection>

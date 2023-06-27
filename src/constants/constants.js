@@ -1,5 +1,14 @@
 export const projects = [
-    {
+  {
+    title: 'Selenium Python Testing Framework',
+    description: "This is a code repository for a testing framework that I designed and build from scratch using Selenium, Python and Pytest. The framework is for testing an E-Commerce website. The site tested in this framework is a dummy site I made with wordpress/woocommerce/mamp/mysql loaded with sample data from woocommerce",
+    image: 'https://blog.logrocket.com/wp-content/uploads/2021/11/web-automation-selenium-python.png',
+    tags: ['Python', 'Selenium', 'Pytest', 'MySQL'],
+    source: 'https://github.com/trevharri/EcommSeleniumPythonFramework',
+    visit: 'https://github.com/trevharri/EcommSeleniumPythonFramework',
+    id: 4,
+  },
+  {
     title: 'Spotiflyy',
     description: "A work in progress. A Spotify clone built using React, Redux and Tailwind CSS. In working on this project I am learning more about interacting with APIs in react and complex state management using Redux.",
       image: 'https://i.imgur.com/40IHLNY.png',
@@ -35,21 +44,12 @@ export const projects = [
     visit: 'https://movie-fight-smoky.vercel.app/',
     id: 2,
   },
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 4,
-  // },
 ];
 
 export const TimeLineData = [
   { year: 2019, text: 'Graduated from University of Minnesota with a Bachelors degree in biology', },
   { year: 2020, text: 'Began working as a Regulatory Data Specialist for Pace Analytical at 3M', },
   { year: 2021, text: 'Became a Regulatory IT Analyst for Pace Analytical at 3M using tools such as SQL Server', },
-  { year: 2022, text: 'Started my frontend journy learning JavaScript/React/HTML/CSS', },
-  { year: 2023, text: 'Earned a Meta Front-End Developer Certificate and began working on my own projects', },
+  { year: 2022, text: 'Started my development journy learning Python then JavaScript', },
+  { year: 2023, text: 'Earned a Meta Front-End Developer Certificate and began learning test automation', },
 ];
