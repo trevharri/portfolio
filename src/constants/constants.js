@@ -47,9 +47,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: 'Graduated from University of Minnesota with a Bachelors degree in biology', },
-  { year: 2020, text: 'Began working as a Regulatory Data Specialist for Pace Analytical at 3M', },
-  { year: 2021, text: 'Became a Regulatory IT Analyst for Pace Analytical at 3M using tools such as SQL Server', },
-  { year: 2022, text: 'Started my development journy learning Python then JavaScript', },
+  { year: 2019, text: 'Graduated from University of Minnesota with a Bachelors degree in biology and began working as a Regulatory Data Specialist for Pace Analytical at 3M', },
+  { year: 2020, text: 'Became a Regulatory QA Analyst for Pace Analytical at 3M conducting manual testing and using tools such as SQL and Excel', },
+  { year: 2021, text: 'Moved to Spain and began my development journy learning Python', },
+  { year: 2022, text: 'Started exploring front-end web development learning JavaScript/HTML/CSS/React', },
   { year: 2023, text: 'Earned a Meta Front-End Developer Certificate and began learning test automation', },
 ];
