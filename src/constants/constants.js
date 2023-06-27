@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Selenium Python Testing Framework',
-    description: "This is a code repository for a testing framework that I designed and build from scratch using Selenium, Python and Pytest. The framework is for testing an E-Commerce website. The site tested in this framework is a dummy site I made with wordpress/woocommerce/mamp/mysql loaded with sample data from woocommerce",
+    description: "This is a code repository for a testing framework that I designed and built from scratch using Selenium, Python and Pytest. The framework is for testing an E-Commerce website. The site tested in this framework is a dummy site I made with wordpress/woocommerce/mamp/mysql loaded with sample data from woocommerce.",
     image: 'https://blog.logrocket.com/wp-content/uploads/2021/11/web-automation-selenium-python.png',
     tags: ['Python', 'Selenium', 'Pytest', 'MySQL'],
     source: 'https://github.com/trevharri/EcommSeleniumPythonFramework',
